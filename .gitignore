@@ -1,0 +1,31 @@
+# Python-specific ignores
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment directories (if using virtual environments)
+venv/
+env/
+bin/
+lib/
+include/
+*.egg-info/
+.installed.cfg
+
+# IDE-specific files (e.g., for VSCode or PyCharm)
+.vscode/
+.idea/
+
+# Dependency management files
+Pipfile.lock
+poetry.lock
+
+# Compiled Python files (bytecode)
+__pycache__/
+
+# Logs
+*.log
+
+# Streamlit cache and state
+.streamlit/
