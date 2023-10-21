@@ -21,7 +21,7 @@
 ![image](https://github.com/HackerTanveer/Smart_Resume_Analyser/assets/146033345/f76f482f-dfe1-455c-9b31-391d8d927de9)
 
 ##Admin Pages:
-![image](https://github.com/HackerTanveer/Smart_Resume_Analyser/assets/146033345/58898eaa-cb2d-4430-8d52-323bebffe248)
+![image](https://github.com/HackerTanveer/Smart_Resume_Analyser/assets/146033345/c916541c-6d06-41c5-807e-9e10aa7237e2)
 ![image](https://github.com/HackerTanveer/Smart_Resume_Analyser/assets/146033345/84d10ab0-ca33-43f4-8805-502b7e1dba72)
 ![image](https://github.com/HackerTanveer/Smart_Resume_Analyser/assets/146033345/52a74a16-e03f-4ccf-bd4a-e681b380b6b9)
 ![image](https://github.com/HackerTanveer/Smart_Resume_Analyser/assets/146033345/b6e7049d-1404-48c1-bffd-2cfd59ddce55)
