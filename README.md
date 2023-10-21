@@ -9,6 +9,11 @@
 - Skills Recommendations
 - Youtube video recommendations
 
+##ScreenSchot
+
+![image](https://github.com/HackerTanveer/Smart_Resume_Analyser/assets/146033345/28e41994-e173-439d-a0c6-39bfb20fb947)
+
+
 ## Usage
 - Clone my repository.
 - Open CMD in working directory.
