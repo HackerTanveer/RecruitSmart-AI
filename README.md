@@ -9,7 +9,7 @@
 - Skills Recommendations
 - Youtube video recommendations
 
-## ScreenSchot
+## Screenshot
 
 ![image](https://github.com/HackerTanveer/Smart_Resume_Analyser/assets/146033345/28e41994-e173-439d-a0c6-39bfb20fb947)
 ![image](https://github.com/HackerTanveer/Smart_Resume_Analyser/assets/146033345/99cd94fb-5314-4f6c-81a7-af5400ec68be)
