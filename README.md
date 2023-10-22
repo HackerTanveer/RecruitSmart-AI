@@ -9,7 +9,7 @@
 - Skills Recommendations
 - Youtube video recommendations
 
-##ScreenSchot
+## ScreenSchot
 
 ![image](https://github.com/HackerTanveer/Smart_Resume_Analyser/assets/146033345/28e41994-e173-439d-a0c6-39bfb20fb947)
 ![image](https://github.com/HackerTanveer/Smart_Resume_Analyser/assets/146033345/99cd94fb-5314-4f6c-81a7-af5400ec68be)
@@ -20,7 +20,7 @@
 ![image](https://github.com/HackerTanveer/Smart_Resume_Analyser/assets/146033345/8c0facfd-d125-49e1-9c6a-a159b34ad3cd)
 ![image](https://github.com/HackerTanveer/Smart_Resume_Analyser/assets/146033345/f76f482f-dfe1-455c-9b31-391d8d927de9)
 
-##Admin Pages:
+## Admin Pages:
 ![image](https://github.com/HackerTanveer/Smart_Resume_Analyser/assets/146033345/c916541c-6d06-41c5-807e-9e10aa7237e2)
 ![image](https://github.com/HackerTanveer/Smart_Resume_Analyser/assets/146033345/84d10ab0-ca33-43f4-8805-502b7e1dba72)
 ![image](https://github.com/HackerTanveer/Smart_Resume_Analyser/assets/146033345/52a74a16-e03f-4ccf-bd4a-e681b380b6b9)
