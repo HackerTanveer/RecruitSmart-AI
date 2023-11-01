@@ -1,4 +1,4 @@
-# Smart Resume Analyser App
+# RecruitSmart AI
 
 ## Features
 - User's & Admin Section
