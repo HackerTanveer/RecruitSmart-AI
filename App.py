@@ -1,8 +1,15 @@
 import streamlit as st
 import nltk
 import spacy
+import os
+
 nltk.download('stopwords')
+
+# Load the 'en_core_web_sm' model from spaCy
 spacy.load('en_core_web_sm')
+
+# Load the spaCy model 'en_core_web_sm'
+nlp = spacy.load("en_core_web_sm")
 
 import pandas as pd
 import base64, random
@@ -23,6 +30,17 @@ from Courses import ds_course, web_course, android_course, ios_course, uiux_cour
 import pafy
 import plotly.express as px
 import youtube_dl
+
+
+
+# Get the directory of the current script
+script_dir = os.path.dirname(os.path.abspath(__file__ if "__file__" in locals() else __file__))
+
+# Combine the directory and the configuration file name
+custom_config_path = os.path.join(script_dir, "custom_config.cfg")
+
+
+
 
 def fetch_yt_video(link):
     video = pafy.new(link)
@@ -100,13 +118,13 @@ def insert_data(name, email, res_score, timestamp, no_of_pages, reco_field, cand
 
 
 st.set_page_config(
-    page_title="Smart Resume Analyzer",
+    page_title="RecruitSmart AI",
     page_icon='./Logo/SRA_Logo.ico',
 )
 
 
 def run():
-    st.title("Smart Resume Analyser")
+    st.title("RecruitSmart AI")
     st.sidebar.markdown("# Choose User")
     activities = ["Normal User", "Admin"]
     choice = st.sidebar.selectbox("Choose among the given options:", activities)

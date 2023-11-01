@@ -56,3 +56,11 @@
 - `Classifier.py` is the main file which is containing a KNN Algorithm.
 - Admin side credentials is `Admin` and password is `admin123`. 
 
+pip install pdfminer3 pyresparser streamlit pandas pafy plotly pymysql streamlit-tags Pillow youtube-dl nltk pdfminer3 spacy==2.3.5
+pip install https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.0.0/en_core_web_sm-3.0.0.tar.gz
+pip install --upgrade pydantic spacy
+pip install pyresparser
+pip install streamlit_tags
+pip install pymysql    
+python -m spacy download en_core_web_sm
+
